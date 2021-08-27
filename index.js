@@ -20,7 +20,7 @@ registerPlayerEvents(client.player);
 
 const creator = new SlashCreator({
   applicationID: 880891930635010088,
-  token: ODgwODkxOTMwNjM1MDEwMDg4.YSk4ig.VdufXM5lho_S9eoWQYmjZXIFhb4,
+  token: ,
 });
 
 client.on('ready', () => {
